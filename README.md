@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Impact Byte Charizard
 
 You can use the [editor on GitHub](https://github.com/impactbyte-charizard/impactbyte-charizard.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
